@@ -1,0 +1,8 @@
+{
+  "name": "MotionStudio Web",
+  "description": "A web-based screen recording and video formatting tool.",
+  "requestFramePermissions": [
+    "display-capture"
+  ],
+  "majorCapabilities": []
+}
